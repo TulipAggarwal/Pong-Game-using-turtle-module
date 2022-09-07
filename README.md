@@ -1,6 +1,6 @@
 # Pong-Game-using-turtle-module
 
-About the project:
+About this project:
 
 In this Project I have created a simple yet famous "Pong" game using Python language and the Turtle GUI Module. If you are new to Turtle Module then let me explain, the Python Turtle Graphics Module is actually built on top of Tkinter, which is a more powerful, general purpose Python library for building GUIs which is actually Graphical User Interfaces.
 
