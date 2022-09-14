@@ -1,4 +1,4 @@
-#Creating a pong game in python using Turtle Module
+# Creating a pong game in python using Turtle Module
 
 import turtle #using the turtle module for graphics
 import winsound 
